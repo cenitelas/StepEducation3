@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepEducation3</string>
+    <string name="main_button_check">CHECK</string>
+    <string name="main_checkbox_product">Product</string>
+</resources>
